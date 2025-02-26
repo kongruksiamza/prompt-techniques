@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <h1>🔥 เทคนิคการเขียน Prompt </h1>
+  <h1>🔥 เทคนิคการเขียน Prompt (Techniques)</h1>
 </div>
 <div id="badges" align="center">
   <a href="https://www.facebook.com/KongRuksiamTutorial" target="_blank">
